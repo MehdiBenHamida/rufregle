@@ -67,8 +67,3 @@ After that include your name in "Authors" section!
 License
 ====
   This project is under MIT licence
-
-Authors
-=====
-
-Cristian Oliveira - www.cristianoliveira.com.br
